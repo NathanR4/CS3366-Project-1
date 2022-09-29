@@ -1,3 +1,4 @@
+/* @pjs preload="up.svg","down.svg","open.svg","close.svg","open.svg","fire.svg","phone.svg", "braille.ttf", "digital-7.ttf"; */
 
 PFont font, digital, braille;
 boolean b1, b2, b3, b4, b5, b6, b7, delay, help = false;

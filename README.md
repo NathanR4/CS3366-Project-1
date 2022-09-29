@@ -33,6 +33,6 @@ A:
 
 **Touchscreen Implementation**
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/91352265/192929206-c75f43dd-8f90-4068-8e9a-8dcc136e74b1.gif)
 
-https://user-images.githubusercontent.com/91352265/192928252-bf2057ff-0665-46b0-ade4-055a3daa0924.mp4
 
